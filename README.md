@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @umairkhan264
+- 👋 Hi, I’m a student
 - 👀 I’m interested in Coding 
 - 🌱 I’m currently learning C programming, Python, Mysql etc.
 - 💞️ I’m looking to collaborate on ...
